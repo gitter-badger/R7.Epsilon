@@ -85,7 +85,7 @@
                     <skin:FOUNDERS runat="server" Target="_blank" />
                 </div>
                 <div class="navbar-brand skin-navbar-brand-logo">
-                    <dnn:LOGO runat="server" id="dnnLOGO" />
+                    <a href="/"><img src="/Portals/_default/Skins/R7.Epsilon/images/logo_template_133x100.png" style="width:133px;height:100px" /></a>
                 </div>
                 <div class="skin-logo-title-wrapper hidden-xs">
                     <skin:LOGOTITLE runat="server" />
